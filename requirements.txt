@@ -1,0 +1,10 @@
+# 车辆图像分类识别系统 - 依赖清单 (Python 3.12)
+tensorflow>=2.15
+opencv-python>=4.8
+numpy>=1.26
+pillow>=10.0
+matplotlib>=3.8
+scikit-learn>=1.4
+seaborn>=0.13
+pyqt5>=5.15
+gradio>=4.0
