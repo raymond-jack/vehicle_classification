@@ -1,0 +1,17 @@
+{
+    "backbone": "CustomCNN",
+    "class_names": [
+        "SUV",
+        "bus",
+        "family sedan",
+        "fire engine",
+        "heavy truck",
+        "jeep",
+        "minibus",
+        "racing car",
+        "taxi",
+        "truck"
+    ],
+    "test_loss": 0.465137779712677,
+    "test_accuracy": 0.8999999761581421
+}
